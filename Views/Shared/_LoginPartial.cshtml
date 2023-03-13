@@ -1,0 +1,28 @@
+﻿@using Microsoft.AspNetCore.Identity
+
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+<ul class="navbar-nav">
+@if (SignInManager.IsSignedIn(User))
+{
+    <li class="nav-item">
+        <a id="manage" class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Merhaba @UserManager.GetUserName(User)!</a>
+    </li>
+    <li class="nav-item">
+        <form id="logoutForm" class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+            <button id="logout" type="submit" class="nav-link btn btn-link text-dark border-0">Çıkış yap</button>
+        </form>
+    </li>
+}
+else
+{
+        <li class="nav-item dropdown">
+                                <a class="nav-link link text-black dropdown-toggle show display-4" data-toggle="dropdown-submenu" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false"><span class="mobi-mbri mobi-mbri-user-2 mbr-iconfont mbr-iconfont-btn"></span></a>
+                                <div class="dropdown-menu show" aria-labelledby="dropdown-751" data-bs-popper="none">
+                                    <a asp-area="Identity" asp-page="/Account/Register" class="text-black show dropdown-item display-4">Kayıt Ol</a>
+                                    <a asp-area="Identity" asp-page="/Account/Login" class="text-black show dropdown-item display-4">Giriş Yap</a>
+                                </div>
+                                </li>
+}
+</ul>

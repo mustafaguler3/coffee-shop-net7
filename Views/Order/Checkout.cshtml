@@ -1,0 +1,60 @@
+﻿@model Order
+
+<form asp-action="Checkout" method="post" role="form">
+        <section data-bs-version="5.1" class="form6 cid-tsFfsp7eqK" id="form6-n">
+            <div class="container">
+                <div class="mt-5">
+                    <!-- Checkout Panel Information-->
+                    <div class="d-flex justify-content-between align-items-center mb-4 border-bottom pb-4">
+                        <h3 class="fs-5 fw-bolder m-0 lh-1">Kargo Adresi</h3>
+                    </div>
+
+                    <div class="row">
+                        <!-- First Name-->
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                                <label asp-for="FirstName" class="form-label">İsim</label>
+                                <input asp-for="FirstName" type="text" class="form-control"  placeholder="" value="" required="">
+                            </div>
+                        </div>
+
+                        <!-- Last Name-->
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                                <label asp-for="LastName" class="form-label">Soyisim</label>
+                                <input asp-for="LastName" type="text" class="form-control"  placeholder="" value="" required="">
+                            </div>
+                        </div>
+
+                        <!-- Email-->
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                                <label asp-for="Email" class="form-label">Email</label>
+                            <input asp-for="Email" type="email" class="form-control" id="email" placeholder="">
+                            </div>
+                        </div>
+                        <!-- Email-->
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                            <label asp-for="Phone" class="form-label">Telefon</label>
+                            <input asp-for="Phone" type="tel" class="form-control" id="phone" placeholder="">
+                            </div>
+                        </div>
+                        <!-- Address-->
+                        <div class="col-12">
+                            <div class="form-group">
+                            <label asp-for="Address" class="form-label">Adres</label>
+                            <input asp-for="Address" type="text" class="form-control" id="address" placeholder="123 Some Street Somewhere"></input>
+                            </div>
+                        </div>
+                        <!-- Address-->
+                    </div>
+
+                    <div class="col-auto mbr-section-btn align-center">
+                        <button type="submit" class="btn btn-primary display-4">Şipariş ver</button>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+    </form>

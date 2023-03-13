@@ -1,0 +1,453 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CoffeShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CoffeShop.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\dropdown\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\dropdown\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\dropdown\\js\\navbar-dropdown.js",
+      "PackagePath": "staticwebassets\\assets\\dropdown\\js\\navbar-dropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\formoid\\formoid.min.js",
+      "PackagePath": "staticwebassets\\assets\\formoid\\formoid.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\images\\anna-bratiychuk-3w2aurzeesu-unsplash-815x1223.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\anna-bratiychuk-3w2aurzeesu-unsplash-815x1223.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\images\\brent-ninaber-vlpefxuqynm-unsplash-2000x1125.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\brent-ninaber-vlpefxuqynm-unsplash-2000x1125.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\images\\coffee-beans-2258839-960.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\coffee-beans-2258839-960.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\images\\coffee-icon-sign-symbol-design-free-png.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\coffee-icon-sign-symbol-design-free-png.webp"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\images\\giancarlo-duarte-rthw0pwclhw-unsplash-815x543.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\giancarlo-duarte-rthw0pwclhw-unsplash-815x543.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\images\\hashes.json",
+      "PackagePath": "staticwebassets\\assets\\images\\hashes.json"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\images\\jeremy-yap-jn-hagwe4yw-unsplash-815x1223.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\jeremy-yap-jn-hagwe4yw-unsplash-815x1223.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\images\\mbr-1920x1372.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\mbr-1920x1372.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\images\\mohammad-amirahmadi-tk2ifgn60xo-unsplash-815x1019.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\mohammad-amirahmadi-tk2ifgn60xo-unsplash-815x1019.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\images\\nathan-dumlao-nbjho6wmrww-unsplash-815x1223.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\nathan-dumlao-nbjho6wmrww-unsplash-815x1223.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\images\\tetiana-shyshkina-4lqjr8gu-bg-unsplash-815x1222.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\tetiana-shyshkina-4lqjr8gu-bg-unsplash-815x1222.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\mobirise\\css\\mbr-additional.css",
+      "PackagePath": "staticwebassets\\assets\\mobirise\\css\\mbr-additional.css"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\parallax\\jarallax.css",
+      "PackagePath": "staticwebassets\\assets\\parallax\\jarallax.css"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\parallax\\jarallax.js",
+      "PackagePath": "staticwebassets\\assets\\parallax\\jarallax.js"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\smoothscroll\\smooth-scroll.js",
+      "PackagePath": "staticwebassets\\assets\\smoothscroll\\smooth-scroll.js"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\socicon\\css\\styles.css",
+      "PackagePath": "staticwebassets\\assets\\socicon\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\socicon\\fonts\\socicon.eot",
+      "PackagePath": "staticwebassets\\assets\\socicon\\fonts\\socicon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\socicon\\fonts\\socicon.svg",
+      "PackagePath": "staticwebassets\\assets\\socicon\\fonts\\socicon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\socicon\\fonts\\socicon.ttf",
+      "PackagePath": "staticwebassets\\assets\\socicon\\fonts\\socicon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\socicon\\fonts\\socicon.woff",
+      "PackagePath": "staticwebassets\\assets\\socicon\\fonts\\socicon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\socicon\\fonts\\socicon.woff2",
+      "PackagePath": "staticwebassets\\assets\\socicon\\fonts\\socicon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\theme\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\theme\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\theme\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.css",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.css"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.eot",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.svg",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.woff",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.css",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons2\\mobirise2.css"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.eot",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons2\\mobirise2.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.svg",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons2\\mobirise2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.ttf",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons2\\mobirise2.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.woff",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons2\\mobirise2.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\assets\\ytplayer\\index.js",
+      "PackagePath": "staticwebassets\\assets\\ytplayer\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\images\\1200px-Coffee_cup_icon.svg.png",
+      "PackagePath": "staticwebassets\\images\\1200px-Coffee_cup_icon.svg.png"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\images\\3718219.png",
+      "PackagePath": "staticwebassets\\images\\3718219.png"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\images\\hot-coffee-cup-file-free-png.webp",
+      "PackagePath": "staticwebassets\\images\\hot-coffee-cup-file-free-png.webp"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\images\\kahve.jpg",
+      "PackagePath": "staticwebassets\\images\\kahve.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\images\\parfume.jpg",
+      "PackagePath": "staticwebassets\\images\\parfume.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\images\\perfume.jpg",
+      "PackagePath": "staticwebassets\\images\\perfume.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mustafa GULER\\source\\repos\\CoffeShop\\CoffeShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.CoffeShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.CoffeShop.props",
+      "PackagePath": "build\\CoffeShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.CoffeShop.props",
+      "PackagePath": "buildMultiTargeting\\CoffeShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.CoffeShop.props",
+      "PackagePath": "buildTransitive\\CoffeShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
